@@ -1,4 +1,5 @@
-# CarND-09-Two-Dimensional-Robot-Motion-and-Trigonometry
+# CarND-09-Path-Planning-Two-Dimensional-Robot-Motion-and-Trigonometry
+
 Udacity Self-Driving Car Engineer Nanodegree: Two Dimensional Robot Motion and Trigonometry
 
 ## Further Reading
